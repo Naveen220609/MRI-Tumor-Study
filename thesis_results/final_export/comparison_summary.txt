@@ -1,0 +1,8 @@
+MSc RESEARCH FINAL COMPARISON
+==============================
+ResNet Accuracy: 93.31%
+ViT Accuracy:    91.25%
+ResNet Faithfulness (Drop): 0.6187
+ViT Faithfulness (Drop):    0.0113
+ResNet Correlation (r):     -0.2313
+ViT Correlation (r):        -0.0262

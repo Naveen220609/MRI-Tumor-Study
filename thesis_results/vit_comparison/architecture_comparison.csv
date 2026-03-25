@@ -1,0 +1,4 @@
+Metric,ResNet-50,ViT-B/16
+Accuracy,93.31%,91.19%
+XAI Correlation,0.1092,0.3004
+Model Type,CNN (Local),Transformer (Global)
